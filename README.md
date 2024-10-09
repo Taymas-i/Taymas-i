@@ -40,5 +40,6 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
+![Snake animation](https://raw.githubusercontent.com/Taymas-i/Taymas-i/output/github-contribution-grid-snake-dark.svg)
 </div>
 
