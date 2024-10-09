@@ -38,8 +38,11 @@
 <hr/>
 
 <div align="center">
+ <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-![Snake animation](https://raw.githubusercontent.com/Taymas-i/Taymas-i/output/github-contribution-grid-snake-dark.svg)
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Taymas-i/Taymas-i/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
